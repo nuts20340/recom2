@@ -1,0 +1,37 @@
+.foo{
+    position:absolute;
+    width: 1690px;
+    height: 486px;
+    left: 0.5px;
+    top: 6544.31px;
+    gap: 10px;
+    
+    background: #232323; 
+}
+
+.foo-container .lo{
+    position: relative;
+width: 99.74px;
+height: 58.82px;
+left: 95.12px;
+top: -390.79px;
+}
+
+.fooo h5{
+    
+position: relative;
+width: 98px;
+height: 32px;
+left: 95.12px;
+top: 478.51px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 21.3443px;
+line-height: 32px;
+/* identical to box height */
+
+
+color: white;
+}

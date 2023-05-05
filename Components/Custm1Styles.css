@@ -1,0 +1,50 @@
+.custm{
+    width:100%;
+    height:100%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .custm h1{
+
+    
+    position: absolute;
+    width: 495px;
+    height: 55px;
+    left: 585px;
+    top: 4420px;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 55px;
+    /* identical to box height */
+    
+    letter-spacing: -0.02em;
+    
+    color: #323232;
+    
+}
+
+.custm p{
+   
+    position: absolute;
+    width: 502px;
+    height: 36px;
+    left: 563.5px;
+    top: 4490px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+    
+    letter-spacing: -0.02em;
+    
+    color: #818181;
+}

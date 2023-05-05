@@ -1,0 +1,247 @@
+.customer{
+    width: 100%;
+    padding:6rem 1rem; 
+    max-width: 1120px;
+    margin:auto;
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap:20px; 
+}
+
+.custmm1{
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 365.45px;
+    height: 436.94px;
+    left: 60.77px;
+    top: 4593.18px;
+    
+    background: #FAFAF8;
+    border: 1.06309px solid #FAFAF8;
+    box-shadow: 0px 4.08316px 21.4366px rgba(157, 175, 181, 0.25);
+    border-radius: 16.3326px;
+}
+
+
+.custmm1 .img1{
+    position: absolute;
+    width: 365.41px;
+    height: 192.93px;
+    left: -2.77px;
+    top: 4.18px;
+    
+}
+
+.custmm1 p{
+
+    width: 327.55px;
+    height: 128.62px;
+    position: relative;
+    top: 210px;
+    left: 5%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14.8833px;
+    line-height: 150%;
+    color: #232527;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+
+.custmm1 h5{
+    width: 97.8px;
+    height: 42.52px;
+    position: relative;
+    top: 48%;
+    left: 5%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14.2911px;
+    line-height: 21px;
+    
+    color: #293238;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.custmm1 .star{
+width: 82.68px;
+height: 13.27px;
+position: relative;
+left: 5%;
+top: 50%;
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.custmm2{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 405.1px;
+    height: 484.35px;
+    left: 621.06px;
+    top: 4630.78px;
+    
+    background: #FAFAF8;
+    border: 1.17842px solid #FAFAF8;
+    box-shadow: 0px 4.52613px 23.7622px rgba(157, 175, 181, 0.25);
+    border-radius: 18.1045px;
+}
+
+.custmm2 .img2{
+    position: absolute;
+    width: 405.05px;
+    height: 213.86px;
+    left: .06px;
+    top: 5.78px;
+}
+
+.custmm2 p{
+    width: 363.08px;
+height: 142.57px;
+position: relative;
+top: 50%;
+left: 5%;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16.4979px;
+line-height: 150%;
+/* or 25px */
+
+
+color: #232527;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.custmm2 h5{
+    width: 97.8px;
+    height: 42.52px;
+    position: relative;
+    top: 50%;
+    left: 5%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14.2911px;
+    line-height: 21px;
+    
+    color: #293238;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.custmm2 .star{
+    width: 82.68px;
+    height: 13.27px;
+    position: relative;
+    left: 5%;
+    top: 50%;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    }
+
+    .custmm3{
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 405.1px;
+        height: 484.35px;
+        left: 1241.06px;
+        top: 4593.18px;
+        
+        background: #FAFAF8;
+        border: 1.17842px solid #FAFAF8;
+        box-shadow: 0px 4.52613px 23.7622px rgba(157, 175, 181, 0.25);
+        border-radius: 18.1045px;
+    }
+    
+    .custmm3 .img3{
+        position: absolute;
+        width: 405.05px;
+        height: 213.86px;
+        left: .06px;
+        top: 5.78px;
+    }
+    
+    .custmm3 p{
+        width: 363.08px;
+    height: 142.57px;
+    position: relative;
+    top: 50%;
+    left: 5%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.4979px;
+    line-height: 150%;
+    /* or 25px */
+    
+    
+    color: #232527;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    }
+    
+    .custmm3 h5{
+        width: 97.8px;
+        height: 42.52px;
+        position: relative;
+        top: 50%;
+        left: 5%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14.2911px;
+        line-height: 21px;
+        
+        color: #293238;
+        
+        
+        /* Inside auto layout */
+        
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+    }
+    
+    .custmm3 .star{
+        width: 82.68px;
+        height: 13.27px;
+        position: relative;
+        left: 5%;
+        top: 50%;
+        flex: none;
+        order: 1;
+        flex-grow: 0;
+        }

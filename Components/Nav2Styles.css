@@ -1,0 +1,90 @@
+.naav p{
+    width: 79px;
+    height: 21px;
+    position: absolute;
+    top: 38%;
+    left: 8%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #A9A9A9;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.naav h5{
+    width: 5px;
+height: 16px;
+position: absolute;
+top:38.5%;
+left: 13.5%;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+
+/* C1/D */
+
+color: #D1D1D1;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.naav1 p{
+    width: 144px;
+height: 21px;
+position: absolute;
+left: 15%;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+color: #A9A9A9;
+flex: none;
+order: 2;
+flex-grow: 0;
+}
+
+.naav1 p1{
+    width: 197px;
+height: 21px;
+position: absolute;
+top:38%;
+left:25%;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+color: #232323;
+flex: none;
+order: 4;
+flex-grow: 0;
+}
+
+.naav1 h5{
+    width: 5px;
+height: 16px;
+position: absolute;
+top:38%;
+left:25%;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+color: #D1D1D1;
+flex: none;
+order: 3;
+flex-grow: 0;
+}

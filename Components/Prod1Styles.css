@@ -1,0 +1,77 @@
+.prods h1{
+    width: 79px;
+height: 21px;
+position: relative;
+top: 48px;
+left: 6%;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+
+/* C1/C */
+
+color: #A9A9A9;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.prods p{
+    width: 144px;
+height: 21px;
+position: relative;
+left: 13%;
+top: 28px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+
+/* C1/C */
+
+color: #A9A9A9;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+}
+
+.prods p1{
+    width: 208px;
+height: 20px;
+position: relative;
+left: 24%;
+top:7px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 140%;
+/* identical to box height, or 20px */
+
+
+/* Black */
+
+color: #232323;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 4;
+flex-grow: 0;
+}

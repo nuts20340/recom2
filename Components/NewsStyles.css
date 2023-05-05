@@ -1,0 +1,26 @@
+.news{
+    width:100%;
+    height:100%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .news .r1{
+    position: absolute;
+width: 1680.05px;
+height: 464.23px;
+left: 0.48px;
+top: 5204.09px;
+ }
+
+.new .n1{
+    position: absolute;
+    left: 20px;
+width: 547px;
+height: 229px;
+left: 572px;
+top: 5347.37px;
+
+}

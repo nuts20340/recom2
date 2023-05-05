@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&display=swap');
+
+.cat-container .cate{
+    position: absolute;
+width: 1700px;
+height: 119px;
+left: 0px;
+top: 150px;
+}
+
+.cathero .grp{
+    position: absolute;
+width: 174.47px;
+height: 116.89px;
+left: 1400.16px;
+top: 150.94px;
+}
+
+.cathero h4{
+width: 180px;
+height: 28px;
+position: absolute;
+top: 22%;
+left: 10%;
+font-family: 'Croissant One';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+letter-spacing: 0.02em;
+color: #323232;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.cathero p{
+    width: 625px;
+height: 24px;
+position:absolute;
+top:28%;
+left: 10%;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+letter-spacing: 0.02em;
+
+color: #323232;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.cathero p2{
+    width: 625px;
+height: 24px;
+position: absolute;
+top: 28.3%;
+left: 41.5%;
+}
+
+.cate p{
+    width: 79px;
+height: 21px;
+position: absolute;
+top:10%;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+
+/* C1/C */
+
+color: #A9A9A9;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}

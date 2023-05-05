@@ -1,0 +1,177 @@
+.homef .h1{
+    position: absolute;
+width: 1700.08px;
+height: 479.07px;
+left: -0.04px;
+top: 5964.33px;
+
+/* Black */
+
+background: #232323;
+}
+
+.homef .h2{
+    position: absolute;
+    width: 99.74px;
+    height: 58.82px;
+    left: 110.66px;
+    top: 6030.71px;
+}
+
+.homef h1{
+    position: absolute;
+width: 98px;
+height: 32px;
+left: 105.66px;
+top: 6130.44px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 21.3443px;
+line-height: 32px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+
+.homef p{
+    position: absolute;
+width: 304.91px;
+height: 189px;
+left: 104.66px;
+top: 6185.17px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+
+color: #F0F0F0;
+}
+
+.homef1 h1{
+    position: absolute;
+    width: 114px;
+    height: 30px;
+    left: 573.6px;
+    top: 6128.44px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #F0F0F0;
+}
+
+.homef1 h2{position: absolute;
+width: 80px;
+height: 27px;
+left: 578.26px;
+top: 6170.84px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #F0F0F0;
+}
+
+.homef1 h3{position: absolute;
+width: 72px;
+height: 27px;
+left: 578.26px;
+top: 6221.19px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #F0F0F0;
+}
+
+.homef1 h4{position: absolute;
+width: 80px;
+height: 27px;
+left: 578.26px;
+top: 6271.19px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #F0F0F0;
+}
+
+.homef1 h5{position: absolute;
+width: 72px;
+height: 27px;
+left: 578.26px;
+top: 6321.19px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #F0F0F0;
+}
+
+.homef2 .h3{
+    position: absolute;
+width: 267.99px;
+height: 207.57px;
+left: 856.63px;
+top: 6130px;
+}
+
+.homef3 .h4{
+    position: absolute;
+width: 153.16px;
+height: 70.86px;
+left: 1282.08px;
+top: 6130px;
+}
+
+.homef4 h1{
+    position: absolute;
+width: 611px;
+height: 27px;
+left: 480.54px;
+top: 6396px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+text-align: center;
+
+color: #F0F0F0;
+
+}
